@@ -14,3 +14,7 @@ docker run -it -v $PWD:/app node /bin/bash
 ```
 docker compose exec node /bin/bash
 ```
+
+## Swagger access
+
+http://localhost:3000/api-docs/#/
